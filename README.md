@@ -2,6 +2,8 @@
 
 *The lightweight OS X window manager for hackers*
 
+_ this is the best thing ever _
+
 Phoenix is a fork of Zephyros that aims for efficiency and a very small footprint.
 
 * Current version: **1.0**
